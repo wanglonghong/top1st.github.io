@@ -1,0 +1,31 @@
+{
+  "name": "top1st.github.io",
+  "version": "1.0.0",
+  "description": "@top1st's personal website",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "deploy": "vuepress build && sh scripts/deploy.sh"
+  },
+  "author": "Zhang Xiqian (@top1st)",
+  "contributors": [
+    {
+      "name": "Zhang Xiqian",
+      "url": "https://github.com/top1st"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/top1st/top1st.github.io.git"
+  },
+  "homepage": "https://github.com/top1st/top1st.github.io/",
+  "bugs": {
+    "url": "https://github.com/top1st/top1st.github.io/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.0",
+    "vuepress": "^1.8.0",
+    "vuepress-plugin-facebook-pixel": "^1.0.0"
+  }
+}
