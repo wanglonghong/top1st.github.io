@@ -21,8 +21,8 @@ meta:
 
 <p class="social">
     <a href="https://github.com/top1st" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
-    <a href="https://twitter.com/top1st" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
-    <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
-    <a href="https://www.instagram.com/top1st" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
-    <a href="https://top1st.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
+    <a href="https://telegram.me/xiqian88" target="_blank"><i class="fab fa-2x fa-telegram"></i></a> 
+    <a href="https://www.linkedin.com/in/top1st" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
+    <a href="https://discord.gg/7a9upMtpAA" target="_blank"><i class="fab fa-2x fa-discord"></i></a>
+    <a href="https://www.reddit.com/user/top1st" target="_blank"><i class="fab fa-2x fa-reddit"></i></a>
 </p>
