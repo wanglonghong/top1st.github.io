@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Zhang Xiqian | Web and Blockchain Developer',
-  description: "I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation. I live in Catania and I'm maniacally passionate about web applications, blockchain technologies and development tools.",
+  description: "top1st Blockahin Developer",
   head: [
     ['meta', {name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no'}],
     ['meta', {property: 'og:type', content: 'website'}],
