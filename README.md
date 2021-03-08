@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/images/top1st-sq.jpg
+heroImage: /assets/images/top1st.png
 heroText: Zhang Xiqian
 tagline: Web and Blockchain Developer
 actionText: Discover More
